@@ -1,2 +1,2 @@
 # DeepLearning_TF
-Deep learning codes by TensorFlow
+I store some Deep Learning codes by TensorFlow in Python here.
